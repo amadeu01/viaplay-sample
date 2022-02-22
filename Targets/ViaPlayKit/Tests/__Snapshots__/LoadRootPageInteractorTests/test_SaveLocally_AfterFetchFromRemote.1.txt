@@ -1,0 +1,36 @@
+▿ 5 elements
+  - <LocalLinkSection> (entity: LocalLinkSection; id <x-coredata:///LocalLinkSection/t06444B71-DAAA-499A-804B-3D1AFF76FCF66>; data: {
+    id = 10;
+    name = "test_ReturnLocally_WhenFailsFromRemote()";
+    title = test;
+    type = nil;
+    url = nil;
+})
+  - <LocalLinkSection> (entity: LocalLinkSection; id <x-coredata://73D2C881-3C02-4973-8097-904C2FAEE2C5/LocalLinkSection/p4>; data: {
+    id = "1a6a2ec0-d4e2-11e2-8b8b-0800200c9a66";
+    name = kids;
+    title = Barn;
+    type = vod;
+    url = "https://content.viaplay.se/ios-se/barn{?dtg}";
+})
+  - <LocalLinkSection> (entity: LocalLinkSection; id <x-coredata://73D2C881-3C02-4973-8097-904C2FAEE2C5/LocalLinkSection/p1>; data: {
+    id = "35bb8a90-d40e-11e2-8b8b-0800200c9a66";
+    name = series;
+    title = Serier;
+    type = vod;
+    url = "https://content.viaplay.se/ios-se/serier{?dtg}";
+})
+  - <LocalLinkSection> (entity: LocalLinkSection; id <x-coredata://73D2C881-3C02-4973-8097-904C2FAEE2C5/LocalLinkSection/p2>; data: {
+    id = "2037b330-d411-11e2-8b8b-0800200c9a66";
+    name = movie;
+    title = Filmer;
+    type = vod;
+    url = "https://content.viaplay.se/ios-se/film{?dtg}";
+})
+  - <LocalLinkSection> (entity: LocalLinkSection; id <x-coredata://73D2C881-3C02-4973-8097-904C2FAEE2C5/LocalLinkSection/p3>; data: {
+    id = "8e5febf0-d4e0-11e2-8b8b-0800200c9a66";
+    name = sport;
+    title = Sport;
+    type = vod;
+    url = "https://content.viaplay.se/ios-se/sport{?dtg}";
+})
